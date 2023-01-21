@@ -1,1 +1,1 @@
-# https-univer.dvfu.ru
+# univer.dvfu.ru-pass
